@@ -1,0 +1,48 @@
+.pid{
+  margin-top: 2%;
+  margin-left: 2%;
+  font-size: 1.5vw;
+  width: fit-content;
+  height: fit-content;
+  background: #AFEEEE;
+  border-radius: 10px;
+  padding: 20px;
+}
+.info{
+  height: 100%;
+  width: 100%;
+}
+
+.details{
+  width: 90vw;
+  margin-left: 5%;
+  margin-top: 2%;
+  height: 80vh;
+  background:#AFEEEE;
+  border-radius: 10px;
+}
+
+.name{
+  margin-left: 2%;
+  margin-top:5%;
+  padding-top: 2%;
+}
+.phno{
+  margin-left: 2%;
+}
+h2{
+  margin-left: 2%;
+}
+#r{
+  top:-13%;
+  left: 77%;
+  position: relative;
+}
+
+#fname{
+  width: 50%;
+}
+
+#lname{
+  width: 50%;
+}
